@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69094085953",
+    "project_id": "egitim-fbda9",
+    "storage_bucket": "egitim-fbda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69094085953:android:a7298728dfb5a9efbafdc0",
+        "android_client_info": {
+          "package_name": "com.example.filmlerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXGhRLkRRc0r8itTUncSwXr3XYaBFH0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69094085953:android:c0f81698e189a6f1bafdc0",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXGhRLkRRc0r8itTUncSwXr3XYaBFH0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
